@@ -1,0 +1,15 @@
+*.h5
+*.mp4
+.vscode/
+.idea/
+.spyproject/
+*.*.pyc
+*.pyc
+__pycache__/
+.ipynb_checkpoint*/
+*-checkpoint.py
+*-checkpoint.ipynb
+.virtual_document*/
+Untitled*.ipynb
+Untitled*
+c.log
