@@ -3,8 +3,8 @@
 Dep. Variable:            cap_percent   R-squared:                       0.496
 Model:                            OLS   Adj. R-squared:                  0.494
 Method:                 Least Squares   F-statistic:                     276.6
-Date:                Thu, 09 Nov 2023   Prob (F-statistic):               0.00
-Time:                        22:07:04   Log-Likelihood:                 4211.9
+Date:                Sun, 12 Nov 2023   Prob (F-statistic):               0.00
+Time:                        12:20:36   Log-Likelihood:                 4211.9
 No. Observations:                2543   AIC:                            -8404.
 Df Residuals:                    2533   BIC:                            -8345.
 Df Model:                           9                                         
